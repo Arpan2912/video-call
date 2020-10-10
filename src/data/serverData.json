@@ -1,0 +1,77 @@
+[
+    {
+        "s_name":"US Server 1234",
+        "s_flag":"../../assets/gameImg/serverflag/united-states.png"
+    },
+
+    {
+        "s_name":"US Server 5815",
+        "s_flag":"../../assets/gameImg/serverflag/united-states.png"
+    },
+
+    {
+        "s_name":"China Server 1",
+        "s_flag":"../../assets/gameImg/serverflag/China.png"
+    },
+
+    {
+        "s_name":"China Server 2",
+        "s_flag":"../../assets/gameImg/serverflag/China.png"
+    },
+
+    {
+        "s_name":"China Server 3",
+        "s_flag":"../../assets/gameImg/serverflag/China.png"
+    },
+
+    {
+        "s_name":"Brazil Server A",
+        "s_flag":"../../assets/gameImg/serverflag/Brazil.png"
+    },
+
+    {
+        "s_name":"Brazil Server B",
+        "s_flag":"../../assets/gameImg/serverflag/Brazil.png"
+    },
+
+    {
+        "s_name":"Brazil Server C",
+        "s_flag":"../../assets/gameImg/serverflag/Brazil.png"
+    },
+
+    {
+        "s_name":"UK server 781",
+        "s_flag":"../../assets/gameImg/serverflag/Kingdom.png"
+    },
+
+    {
+        "s_name":"UK server 819",
+        "s_flag":"../../assets/gameImg/serverflag/Kingdom.png"
+    },
+
+    {
+        "s_name":"UK server 143",
+        "s_flag":"../../assets/gameImg/serverflag/Kingdom.png"
+    },
+
+    {
+        "s_name":"Singapore server 1",
+        "s_flag":"../../assets/gameImg/serverflag/Singapore.png"
+    },
+
+    {
+        "s_name":"Singapore server 2",
+        "s_flag":"../../assets/gameImg/serverflag/Singapore.png"
+    },
+
+    {
+        "s_name":"Singapore server 3",
+        "s_flag":"../../assets/gameImg/serverflag/Singapore.png"
+    },
+
+    {
+        "s_name":"Singapore server 4",
+        "s_flag":"../../assets/gameImg/serverflag/Singapore.png"
+    }   
+
+]

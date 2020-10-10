@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "appName": "sefe gaming",
+        "appImage":"../../assets/roomImg/room-game.jpg"
+       
+    },
+    {
+        "id": 2,
+        "appName": "jafle gaming",
+        "appImage":"../../assets/roomImg/promot-ninja.jpg"
+    },
+    {
+        "id": 3,
+        "appName": "sdf gaming",
+        "appImage":"../../assets/roomImg/room-samurai.jpg"
+    },
+    {
+        "id": 4,
+        "appName": "dfg gaming",
+        "appImage":"../../assets/roomImg/promot-evilB.jpg"
+    },
+    {
+        "id": 5,
+        "appName": "ertre gaming",
+        "appImage":"../../assets/roomImg/promot-undergroupGame.jpg"
+    },
+    {
+        "id": 6,
+        "appName": "yui gaming",
+        "appImage":"../../assets/roomImg/promot-ninja.jpg"
+    },
+    {
+        "id": 7,
+        "appName": "olu gaming",
+        "appImage":"../../assets/roomImg/promot-lion.jpg"
+    },
+    {
+        "id": 8,
+        "appName": "yty gaming",
+        "appImage":"../../assets/roomImg/promot-evilA.jpg"
+    },
+    {
+        "id": 9,
+        "appName": "dfg gaming",
+        "appImage":"../../assets/roomImg/promot-phantom.jpg"
+    },
+    {
+        "id": 10,
+        "appName": "erw gaming",
+        "appImage":"../../assets/roomImg/promot-ninja.jpg"
+    }
+]
+    

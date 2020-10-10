@@ -1,0 +1,3765 @@
+[
+    {
+        "id": 1,
+        "username": "JonDon",
+        "profile":"../../assets/profile/avata1.png",
+        "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"Variants and technical information",
+                "url":"https://www.phiz.com/gamingroom14027428",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"Lorem Ipsum",
+                "url":"",
+                "backImg":"../../assets/roomImg/promot-music.jpg",
+                "review":[12,22,9]
+            },
+
+            {
+                "title":"When, and when not to use it",
+                "url":"",
+                "backImg":"../../assets/roomImg/promot-pink.jpg",
+                "review":[42,25,8]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"drtrte Room",
+                "backImg":"../../assets/roomImg/promot-pink.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"reree Room",
+                "backImg":"../../assets/roomImg/promot-heroGame.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"yttt Room",
+                "backImg":"../../assets/roomImg/promot-evilGirl.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friendsCount": "40",
+
+        "friends":[
+            {
+                "username": "sdf",
+                "profile":"../../assets/profile/avata1.png"
+            },
+
+            {
+                "username": "trytry",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "ertretret",
+                "profile":"../../assets/profile/avata3.png"
+            },
+
+            {
+                "username": "trtghdgfh",
+                "profile":"../../assets/profile/avata4.png"
+            },
+
+            {
+                "username": "JondfrtrDon",
+                "profile":"../../assets/profile/avata5.png"
+            },
+
+            {
+                "username": "trngfhf",
+                "profile":"../../assets/profile/avata6.png"
+            },
+
+            {
+                "username": "hgfnhgf",
+                "profile":"../../assets/profile/avata7.png"
+            },
+
+            {
+                "username": "JonDonfgn",
+                "profile":"../../assets/profile/avata8.png"
+            },
+
+            {
+                "username": "JofghnDon",
+                "profile":"../../assets/profile/avata9.png"
+            },
+
+            {
+                "username": "reewe",
+                "profile":"../../assets/profile/avata10.png"
+            },
+
+            {
+                "username": "ee",
+                "profile":"../../assets/profile/avata11.png"
+            },
+
+            {
+                "username": "eerety",
+                "profile":"../../assets/profile/avata1.png"
+            },
+
+            {
+                "username": "ghggf",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "fdg",
+                "profile":"../../assets/profile/avata3.png"
+            },
+
+            {
+                "username": "fgfd",
+                "profile":"../../assets/profile/avata4.png"
+            },
+
+            {
+                "username": "fdgdf",
+                "profile":"../../assets/profile/avata5.png"
+            },
+
+            {
+                "username": "dfgdf",
+                "profile":"../../assets/profile/avata6.png"
+            },
+
+            {
+                "username": "dfg",
+                "profile":"../../assets/profile/avata7.png"
+            },
+
+            {
+                "username": "fgd",
+                "profile":"../../assets/profile/avata8.png"
+            },
+
+            {
+                "username": "dfgdfg",
+                "profile":"../../assets/profile/avata9.png"
+            },
+
+            {
+                "username": "dgfdf",
+                "profile":"../../assets/profile/avata10.png"
+            },
+
+            {
+                "username": "gdfdfg",
+                "profile":"../../assets/profile/avata11.png"
+            },
+
+            {
+                "username": "dfgfd",
+                "profile":"../../assets/profile/avata1.png"
+            },
+
+            {
+                "username": "dfgdf",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "dfgfd",
+                "profile":"../../assets/profile/avata3.png"
+            },
+
+            {
+                "username": "dfgdf",
+                "profile":"../../assets/profile/avata4.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata5.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata6.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata7.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata8.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata9.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata10.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata11.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata1.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata3.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata4.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata5.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata6.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata7.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "Title",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "Einr",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "Jerfgt",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "Tdm",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "Cossak",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "Cs",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "World",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "Lomg",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (7).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (8).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":45
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":5,
+                "productReview":11
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":4,
+                "productReview":56
+            }             
+            
+        ]
+    },
+  
+    {
+        "id": 2,
+        "username": "abc",
+        "profile":"../../assets/profile/avata2.png" ,
+        "background":"../../assets/roomImg/promot-heroGame.jpg",
+        "gold":false,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]       
+    },
+    {
+        "id": 3,
+        "username": "XYZ",
+        "profile":"../../assets/profile/avata3.png",
+        "background":"../../assets/roomImg/beatiful.jpg",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]       
+    },
+    {
+        "id": 4,
+        "username": "FHGY",
+        "profile":"../../assets/profile/avata4.png",
+        "background":"../../assets/roomImg/room-party.jpg",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]       
+    },
+
+    {
+        "id": 5,
+        "username": "Warryo",
+        "profile":"../../assets/profile/avata5.png",
+        "background":"../../assets/roomImg/room-tech.jpg",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]       
+    },
+
+    {
+        "id": 6,
+        "username": "Miki",
+        "profile":"../../assets/profile/avata6.png",
+        "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }
+        ]       
+    },
+
+    {
+        "id": 7,
+        "username": "Oetn",
+        "profile":"../../assets/profile/avata7.png",
+         "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]       
+    },
+    {
+        "id": 8,
+        "username": "Rebecca",
+        "profile":"../../assets/profile/avata8.png",
+         "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]       
+    },
+
+    {
+        "id": 9,
+        "username": "Tom",
+        "profile":"../../assets/profile/avata9.png",
+        "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]        
+    },
+
+    {
+        "id": 10,
+        "username": "Jason",
+        "profile":"../../assets/profile/avata10.png",
+        "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]        
+    },
+
+    {
+        "id": 11,
+        "username": "Dawen",
+        "profile":"../../assets/profile/avata11.png",
+        "background":"../../assets/popula/game2.png",
+        "gold":true,
+        "description1":"Bio",
+        "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor.",
+        "status":[
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            },
+
+            {
+                "title":"dlskfjdslkfjdlsfkjdlasfjadlsfjadlfkj",
+                "url":"dlskjfldskfjdlskfjdslfkj",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "review":[52,30,12]
+            }
+        ],
+
+        "room":[
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            },
+
+            {
+                "roomName":"Gamming Room",
+                "backImg":"../../assets/roomImg/room-game.jpg",
+                "description2":"Lorem ipsum dolor sit amet, proin gravidah, consectetur adipiscing elit.Aliquam vel leo pulvinar, laoreet orci eu, dictum dolor."
+            }
+        ],
+
+        "friends":[
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            },
+
+            {
+                "username": "JonDon",
+                "profile":"../../assets/profile/avata2.png"
+            }
+
+        ],
+
+        "gallery":[
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/beatiful.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/promot-pink.jpg"
+            },
+
+            {
+                "title": "JonDon",
+                "profile":"../../assets/roomImg/random-pic.jpg"
+            }
+            
+        ],
+
+        "games":[
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (1).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (2).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":4
+            },
+
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (3).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (4).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":5
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (5).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":2
+            },
+
+            {
+                "gameName": "JonDon",
+                "gameBack":"../../assets/gameImg/game (6).jpg",
+                "gameDescription":"windyenf",
+                "gameStar":3
+            }          
+            
+        ],
+
+        "shop":[
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (1).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (2).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            },
+
+            {
+                "productName": "JonDon",
+                "productBack":"../../assets/shopImg/product (3).jpg",
+                "productCost":150,
+                "productStar":3,
+                "productReview":16
+            }             
+            
+        ]        
+    }
+  ]

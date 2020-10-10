@@ -1,0 +1,25 @@
+.request-room-id-data .MuiOutlinedInput-root{
+    border-radius: 100px !important;
+}
+
+.request-room-id-data .MuiFormLabel-root{
+    font-size: 20px;
+    color: #5c6369;
+}
+
+.request-room-id-data .MuiFormLabel-root.Mui-focused{
+    color: #656983 !important;
+    background: #2C2F44 !important;
+}
+
+.request-room-id-data .MuiInputLabel-outlined.MuiInputLabel-shrink{
+    transform: translate(27px, -11px) scale(0.9);
+}
+
+.request-room-id-data .MuiOutlinedInput-input{
+    padding: 20.5px 25px !important;
+}
+
+.request-room-id-data .PrivateNotchedOutline-legendLabelled-5{
+    font-size: 1.15em !important;
+}

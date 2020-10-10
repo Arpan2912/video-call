@@ -1,0 +1,23 @@
+<svg id="Component_176_1" data-name="Component 176 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.169" y1="0.106" x2="0.808" y2="0.922" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9200"/>
+      <stop offset="1" stop-color="#ff3100"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7e00"/>
+      <stop offset="1" stop-color="#ff4a00"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_35_69" data-name="Component 35 – 69">
+    <rect id="Rectangle_121" data-name="Rectangle 121" width="69" height="69" rx="22" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    <g id="Group_5475" data-name="Group 5475" transform="translate(15.249 23.46)">
+      <rect id="Rectangle_101" data-name="Rectangle 101" width="25" height="22" rx="3" transform="translate(-0.249 -0.46)" fill="#fff"/>
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M17.576,0H0L4.394,8.725h8.787L17.575,0Z" transform="translate(37.029 1.828) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Component_175_1" data-name="Component 175 – 1" transform="translate(15.023 13.024)">
+    <rect id="Rectangle_1455" data-name="Rectangle 1455" width="4" height="47" rx="2" transform="translate(0 2.728) rotate(-43)" fill="#fff"/>
+    <path id="Path_1115" data-name="Path 1115" d="M8.666-1.518,10.824.566l-.6,29.711L8.143,28.224Z" transform="matrix(0.719, -0.695, 0.695, 0.719, -1.468, 17.025)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

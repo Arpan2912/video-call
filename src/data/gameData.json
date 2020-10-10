@@ -1,0 +1,636 @@
+{
+    "category": [
+     "action",
+     "adventure",
+     "arcade",
+     "board",
+     "card",
+     "casino",
+     "casual",
+     "educational",
+     "music",
+     "puzzle",
+     "racing",
+     "role playing",
+     "simulation",
+     "sports",
+     "strategy",
+     "trivia",
+     "word"
+    ],
+    "games":[
+        {
+            "listTitle": "Recommended for you",
+            "backImg": "../../assets/gameImg/gameback1.jpg",
+            "gamesList":[        
+                {
+                    "gameName": "Candy Crush Saga",
+                    "gameBack":"../../assets/gameImg/game (7).jpg",
+                    "gameDescription":"King",
+                    "gameStar":3,
+                    "clickavailable":true
+                },
+        
+                {
+                    "gameName": "Scibble Rider",
+                    "gameBack":"../../assets/gameImg/game (2).jpg",
+                    "gameDescription":"Voodoo",
+                    "gameStar":4
+                },
+        
+        
+                {
+                    "gameName": "Mobile Legendas:Bang Bang",
+                    "gameBack":"../../assets/gameImg/game (3).jpg",
+                    "gameDescription":"Moonton",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Puppy Town",
+                    "gameBack":"../../assets/gameImg/game (4).jpg",
+                    "gameDescription":"Meetloy Studio",
+                    "gameStar":5
+                },
+        
+                {
+                    "gameName": "Log Thrower",
+                    "gameBack":"../../assets/gameImg/game (5).jpg",
+                    "gameDescription":"Playgendary Limited",
+                    "gameStar":2
+                },
+        
+                {
+                    "gameName": "Call duty",
+                    "gameBack":"../../assets/gameImg/game (6).jpg",
+                    "gameDescription":"Garen Mobile Private",
+                    "gameStar":3
+                },{
+                    "gameName": "Clue Hunter",
+                    "gameBack":"../../assets/gameImg/game (1).jpg",
+                    "gameDescription":"Lion Studios",
+                    "gameStar":5
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (8).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (9).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":4
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (10).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (11).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":5
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (12).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":4
+                }
+              
+            ]
+        },
+
+        {
+            "listTitle": "Game Must Try",
+            "backImg": "../../assets/gameImg/gameBack2.jpg",
+            "gamesList":[        
+                {
+                    "gameName": "Candy Crush Saga",
+                    "gameBack":"../../assets/gameImg/game (1).jpg",
+                    "gameDescription":"King",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Scibble Rider",
+                    "gameBack":"../../assets/gameImg/game (2).jpg",
+                    "gameDescription":"Voodoo",
+                    "gameStar":4
+                },
+        
+        
+                {
+                    "gameName": "Mobile Legendas:Bang Bang",
+                    "gameBack":"../../assets/gameImg/game (3).jpg",
+                    "gameDescription":"Moonton",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Puppy Town",
+                    "gameBack":"../../assets/gameImg/game (4).jpg",
+                    "gameDescription":"Meetloy Studio",
+                    "gameStar":5
+                },
+        
+                {
+                    "gameName": "Log Thrower",
+                    "gameBack":"../../assets/gameImg/game (5).jpg",
+                    "gameDescription":"Playgendary Limited",
+                    "gameStar":2
+                },
+        
+                {
+                    "gameName": "Call duty",
+                    "gameBack":"../../assets/gameImg/game (6).jpg",
+                    "gameDescription":"Garen Mobile Private",
+                    "gameStar":3
+                },{
+                    "gameName": "Clue Hunter",
+                    "gameBack":"../../assets/gameImg/game (7).jpg",
+                    "gameDescription":"Lion Studios",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (8).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (9).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (10).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (11).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (12).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                }
+              
+            ]
+        },
+        {
+            "listTitle": "Phiz Picked Games",
+            "gamesList":[        
+                {
+                    "gameName": "Candy Crush Saga",
+                    "gameBack":"../../assets/gameImg/game (1).jpg",
+                    "gameDescription":"King",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Scibble Rider",
+                    "gameBack":"../../assets/gameImg/game (2).jpg",
+                    "gameDescription":"Voodoo",
+                    "gameStar":4
+                },
+        
+        
+                {
+                    "gameName": "Mobile Legendas:Bang Bang",
+                    "gameBack":"../../assets/gameImg/game (3).jpg",
+                    "gameDescription":"Moonton",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Puppy Town",
+                    "gameBack":"../../assets/gameImg/game (4).jpg",
+                    "gameDescription":"Meetloy Studio",
+                    "gameStar":5
+                },
+        
+                {
+                    "gameName": "Log Thrower",
+                    "gameBack":"../../assets/gameImg/game (5).jpg",
+                    "gameDescription":"Playgendary Limited",
+                    "gameStar":2
+                },
+        
+                {
+                    "gameName": "Call duty",
+                    "gameBack":"../../assets/gameImg/game (6).jpg",
+                    "gameDescription":"Garen Mobile Private",
+                    "gameStar":3
+                },{
+                    "gameName": "Clue Hunter",
+                    "gameBack":"../../assets/gameImg/game (7).jpg",
+                    "gameDescription":"Lion Studios",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (8).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (9).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (10).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (11).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (12).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                }
+              
+            ]
+        }
+    ],
+
+    "eventdata": [
+        {
+        "gameName": "Counter Strike",
+        "gameback":"../../assets/gameImg/gallary (2).jpg",
+        "gamestatus":"ongoing",
+        "gameDescription": "BATTLE",
+        "u1Name": "Phantom Gaming",
+        "u1Image":"../../assets/gameImg/game (9).jpg",
+        "u2Name": "Evil Clown",
+        "u2Image":"../../assets/gameImg/game (13).jpg",
+        "eventDate":["Aug","31","2020"],
+        "status":"on going..."
+        },
+
+        {
+        "gameName": "FortNite",
+        "gameback":"../../assets/gameImg/event3.webp",
+        "gamestatus":"room battle",
+        "gameDescription": "Battle",
+        "u1Name": "Net Pirate",
+        "u1Image":"../../assets/roomImg/promot-evilGirl.jpg",
+        "u2Name": "Gaming Room",
+        "u2Image":"../../assets/roomImg/room-game.jpg",
+        "eventDate":["Sept","10","2020"],
+        "status":"room battle"
+        },
+
+        {
+        "gameName": "Chess",
+        "gameback":"../../assets/gameImg/event5.webp",
+        "gameDescription": "Battle",
+        "u1Name": "DaveyJones",
+        "u1Image":"../../assets/profile/avata3.png",
+        "u2Name": "John Doe",
+        "u2Image":"../../assets/profile/avata8.png",
+        "eventDate":["Sept","4","2020"]
+        },
+
+        {
+        "gameName": "Casino Poker",
+        "gameback":"../../assets/gameImg/event4.webp",
+        "gameDescription": "Battle",
+        "u1Name": "William",
+        "u1Image":"../../assets/profile/avata5.png",
+        "u2Name": "Toufik",
+        "u2Image":"../../assets/profile/avata11.png",
+        "eventDate":["July","15","2020"],
+        "status":"New"
+        },
+
+        {
+        "gameName": "Casino Poker",
+        "gameback":"../../assets/gameImg/event2.webp",
+        "gameDescription": "Battle",
+        "u1Name": "William",
+        "u1Image":"../../assets/profile/avata7.png",
+        "u2Name": "Toufik",
+        "u2Image":"../../assets/profile/avata2.png",
+        "eventDate":["July","15","2020"]
+        },
+        
+        {
+        "gameName": "Casino Poker",
+        "gameback":"../../assets/gameImg/event1.webp",
+        "gameDescription": "Battle",
+        "u1Name": "Gallyn",
+        "u1Image":"../../assets/profile/avata8.png",
+        "u2Name": "Toufik",
+        "u2Image":"../../assets/profile/avata9.png",
+        "eventDate":["July","3","2020"]
+        }         
+        
+    ],
+
+    "topgame": [
+        {   
+            "gamename":"scribble rider",
+            "backurl":"../../assets/gameImg/game (13).jpg",
+            "stautus":"1063 players online",
+            "gameStar":3,
+            "review":52
+        },
+
+        {   
+            "gamename":"mobile legends:bang bang",
+            "backurl":"../../assets/gameImg/game (12).jpg",
+            "stautus":"953 players online",
+            "gameStar":4,
+            "review":40
+        },
+
+        {   
+            "gamename":"puppy town",
+            "backurl":"../../assets/gameImg/game (11).jpg",
+            "stautus":"1010 players online",
+            "gameStar":3,
+            "review":32
+        },
+
+        {   
+            "gamename":"brain wash",
+            "backurl":"../../assets/gameImg/game (10).jpg",
+            "stautus":"1010 players online",
+            "gameStar":3,
+            "review":32
+        },
+
+        {   
+            "gamename":"log thrower",
+            "backurl":"../../assets/gameImg/game (9).jpg",
+            "stautus":"1010 players online",
+            "gameStar":3,
+            "review":32
+        },
+
+        {   
+            "gamename":"Call of duty mobile arena",
+            "backurl":"../../assets/gameImg/game (8).jpg",
+            "stautus":"2000 players online",
+            "gameStar":5,
+            "review":60
+        },
+
+        {   
+            "gamename":"fortnite",
+            "backurl":"../../assets/gameImg/game (7).jpg",
+            "stautus":"2000 players online",
+            "gameStar":3,
+            "review":46
+        },
+
+        {   
+            "gamename":"tiles hop EDM rush",
+            "backurl":"../../assets/gameImg/game (6).jpg",
+            "stautus":"3500 players online",
+            "gameStar":5,
+            "review":53
+        },
+
+        {   
+            "gamename":"TDM",
+            "backurl":"../../assets/gameImg/game (5).jpg",
+            "stautus":"3500 players online",
+            "gameStar":5,
+            "review":53
+        },
+
+        {   
+            "gamename":"Counter strick",
+            "backurl":"../../assets/gameImg/game (4).jpg",
+            "stautus":"3500 players online",
+            "gameStar":5,
+            "review":53
+        }
+    ],
+
+    "newlease":[
+        {
+            "listTitle": "Just release this week",
+            "gamesList":[        
+                {
+                    "gameName": "Candy Crush Saga",
+                    "gameBack":"../../assets/gameImg/game (1).jpg",
+                    "gameDescription":"King",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Scibble Rider",
+                    "gameBack":"../../assets/gameImg/game (2).jpg",
+                    "gameDescription":"Voodoo",
+                    "gameStar":4
+                },
+        
+        
+                {
+                    "gameName": "Mobile Legendas:Bang Bang",
+                    "gameBack":"../../assets/gameImg/game (3).jpg",
+                    "gameDescription":"Moonton",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Puppy Town",
+                    "gameBack":"../../assets/gameImg/game (4).jpg",
+                    "gameDescription":"Meetloy Studio",
+                    "gameStar":5
+                },
+        
+                {
+                    "gameName": "Log Thrower",
+                    "gameBack":"../../assets/gameImg/game (5).jpg",
+                    "gameDescription":"Playgendary Limited",
+                    "gameStar":2
+                },
+        
+                {
+                    "gameName": "Call duty",
+                    "gameBack":"../../assets/gameImg/game (6).jpg",
+                    "gameDescription":"Garen Mobile Private",
+                    "gameStar":3
+                },{
+                    "gameName": "Clue Hunter",
+                    "gameBack":"../../assets/gameImg/game (7).jpg",
+                    "gameDescription":"Lion Studios",
+                    "gameStar":5
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (8).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                }         
+            ]
+        },
+
+        {
+            "listTitle": "Upcoming Releases",
+            "gamesList":[         
+                {
+                    "gameName": "Log Thrower",
+                    "gameBack":"../../assets/gameImg/game (5).jpg",
+                    "gameDescription":"Playgendary Limited",
+                    "gameStar":2
+                },
+        
+                {
+                    "gameName": "Call duty",
+                    "gameBack":"../../assets/gameImg/game (6).jpg",
+                    "gameDescription":"Garen Mobile Private",
+                    "gameStar":3
+                },{
+                    "gameName": "Clue Hunter",
+                    "gameBack":"../../assets/gameImg/game (7).jpg",
+                    "gameDescription":"Lion Studios",
+                    "gameStar":5
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (8).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (9).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":4
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (10).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (11).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":5
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (12).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":4
+                }
+              
+            ]
+        },
+
+        {
+            "listTitle": "Games on Early Stage",
+            "gamesList":[        
+                {
+                    "gameName": "Candy Crush Saga",
+                    "gameBack":"../../assets/gameImg/game (1).jpg",
+                    "gameDescription":"King",
+                    "gameStar":3
+                },
+        
+                {
+                    "gameName": "Scibble Rider",
+                    "gameBack":"../../assets/gameImg/game (2).jpg",
+                    "gameDescription":"Voodoo",
+                    "gameStar":4
+                },
+        
+        
+                {
+                    "gameName": "Mobile Legendas:Bang Bang",
+                    "gameBack":"../../assets/gameImg/game (3).jpg",
+                    "gameDescription":"Moonton",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (8).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (9).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":4
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (10).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":3
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (11).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":5
+                },
+                {
+                    "gameName": "Titles Hop: EDM Rush",
+                    "gameBack":"../../assets/gameImg/game (12).jpg",
+                    "gameDescription":"Amanotes",
+                    "gameStar":4
+                }
+              
+            ]
+        }
+        
+    ],
+
+    "favorite": [
+        {   
+            "gamename":"tiles hop EDM rush",
+            "backurl":"../../assets/gameImg/game (6).jpg",
+            "stautus":"3500 players online",
+            "gameStar":5,
+            "review":48
+        },
+
+        {   
+            "gamename":"TDM",
+            "backurl":"../../assets/gameImg/game (5).jpg",
+            "stautus":"3500 players online",
+            "gameStar":5,
+            "review":35
+        },
+
+        {   
+            "gamename":"Counter strick",
+            "backurl":"../../assets/gameImg/game (4).jpg",
+            "stautus":"3500 players online",
+            "gameStar":5,
+            "review":53
+        }
+    ]
+
+
+       
+}

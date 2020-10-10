@@ -1,0 +1,532 @@
+{
+    "products":[
+        {
+            "listTitle": "Featured Products",
+            "productsList":[        
+                {
+                    "id":1,
+                    "name": "HP Pavilion 17.3 Inch Laptop",
+                    "backImg":"../../assets/shopImg/product/mp0.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp0.png",
+                        "../../assets/shopImg/product/p0-1.jpg",
+                        "../../assets/shopImg/product/p0-2.jpg",
+                        "../../assets/shopImg/product/p0-3.jpg",
+                        "../../assets/shopImg/product/p0-4.jpg",
+                        "../../assets/shopImg/product/p0-5.jpg"
+                    ],
+                    "cost":350,
+                    "star":5,
+                    "review":52 
+                },
+                {
+                    "id":2,
+                    "name": "GV2 Astor Diamond",
+                    "backImg":"../../assets/shopImg/product/mp1.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp1.png",
+                        "../../assets/shopImg/product/p1-2.jpg",
+                        "../../assets/shopImg/product/p1-3.jpg",
+                        "../../assets/shopImg/product/p1-1.jpg"
+                        
+                    ],
+                    "cost":199,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":3,
+                    "name": "32GB Android Tablet FRB",
+                    "backImg":"../../assets/shopImg/product/mp2.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp2.png",
+                        "../../assets/shopImg/product/p2-1.jpg",
+                        "../../assets/shopImg/product/p2-3.jpg",
+                        "../../assets/shopImg/product/p2-4.jpg"
+                      
+                    ],
+                    "cost":129,
+                    "star":4,
+                    "review":24
+                },
+                {
+                    "id":4,
+                    "name": "8GB Cell Phone Sumsung",
+                    "backImg":"../../assets/shopImg/product/mp3.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp3.png",
+                        "../../assets/shopImg/product/p3-0.jpg",
+                        "../../assets/shopImg/product/p3-1.jpg",
+                        "../../assets/shopImg/product/p3-2.jpg",
+                        "../../assets/shopImg/product/p3-3.jpg",
+                        "../../assets/shopImg/product/p3-4.jpg",
+                        "../../assets/shopImg/product/p3-5.jpg"
+                        
+                    ],
+                    "cost":400,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":5,
+                    "name": "Philips Norelco - Rechargeable Wet",
+                    "backImg":"../../assets/shopImg/product/mp4.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp4.png",
+                        "../../assets/shopImg/product/p4-1.jpg",
+                        "../../assets/shopImg/product/p4-2.jpg",
+                        "../../assets/shopImg/product/p4-3.jpg",
+                        "../../assets/shopImg/product/p4-4.jpg"
+                    ],
+                    "cost":50,
+                    "star":3,
+                    "review":42
+                },
+                {
+                    "id":6,
+                    "name": "LUMIX DMC-FZ300 ZWART",
+                    "backImg":"../../assets/shopImg/product/mp5.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp5.png",
+                        "../../assets/shopImg/product/p5-1.jpg",
+                        "../../assets/shopImg/product/p5-2.jpg",
+                        "../../assets/shopImg/product/p5-3.jpg",
+                        "../../assets/shopImg/product/p5-4.jpg"
+                    ],
+                    "cost":856,
+                    "star":5,
+                    "review":53
+                },
+                {
+                    "id":7,
+                    "name": "IPEGA 9077 Game Controller Joystick",
+                    "backImg":"../../assets/shopImg/product/mp6.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp6.png",
+                        "../../assets/shopImg/product/p6-1.jpg",
+                        "../../assets/shopImg/product/p6-2.jpg",
+                        "../../assets/shopImg/product/p6-3.jpg",
+                        "../../assets/shopImg/product/p6-4.jpg",
+                        "../../assets/shopImg/product/p6-5.jpg",
+                        "../../assets/shopImg/product/p6-6.jpg"
+                    ],
+                    "cost":40,
+                    "star":4,
+                    "review":123
+                },
+                {
+                    "id":8,
+                    "name": "LED Light, Bass Surround",
+                    "backImg":"../../assets/shopImg/product/mp7.png",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp7.png",
+                        "../../assets/shopImg/product/p7-1.jpg",
+                        "../../assets/shopImg/product/p7-2.jpg",
+                        "../../assets/shopImg/product/p7-3.jpg",
+                        "../../assets/shopImg/product/p7-4.jpg",
+                        "../../assets/shopImg/product/p7-5.jpg",
+                        "../../assets/shopImg/product/p7-6.jpg"
+                        
+                    ],
+                    "cost":45,
+                    "star":5,
+                    "review":251
+                }
+            ]
+        },
+
+        {
+            "listTitle": "Listing Near You",
+            "productsList":[ 
+                
+                {
+                    "id":7,
+                    "name": "Safe+Mate x Case-Mate",
+                    "backImg":"../../assets/shopImg/product/14-2.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp14.jpg",
+                        "../../assets/shopImg/product/14-1.jpg",
+                        "../../assets/shopImg/product/14-2.jpg",
+                        "../../assets/shopImg/product/14-3.jpg",
+                        "../../assets/shopImg/product/14-4.jpg",
+                        "../../assets/shopImg/product/14-5.jpg",
+                        "../../assets/shopImg/product/14-6.jpg"
+                    ],
+                    "cost":39,
+                    "star":5,
+                    "review":250
+                },
+                {
+                    "id":8,
+                    "name": "Candy Crush Saga",
+                    "backImg":"../../assets/shopImg/product/mp15.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp15.jpg",
+                        "../../assets/shopImg/product/15-0.jpg",
+                        "../../assets/shopImg/product/15-1.jpg",
+                        "../../assets/shopImg/product/15-2.jpg",
+                        "../../assets/shopImg/product/15-3.jpg",
+                        "../../assets/shopImg/product/15-4.jpg",
+                        "../../assets/shopImg/product/15-5.jpg"
+                        
+                    ],
+                    "cost":50,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":1,
+                    "name": "Draperies/Drapes for Window",
+                    "backImg":"../../assets/shopImg/product/mp8.jpg",
+                    "detailImg":[
+                                    "../../assets/shopImg/product/mp8.jpg",
+                                    "../../assets/shopImg/product/8-1.jpg",
+                                    "../../assets/shopImg/product/8-2.jpg",
+                                    "../../assets/shopImg/product/8-3.jpg",
+                                    "../../assets/shopImg/product/8-4.jpg"
+                                ],
+                    "cost":250,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":2,
+                    "name": "Hbada Office Task Desk Chair",
+                    "backImg":"../../assets/shopImg/product/mp9.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp9.jpg",
+                        "../../assets/shopImg/product/9-1.jpg",
+                        "../../assets/shopImg/product/9-2.jpg",
+                        "../../assets/shopImg/product/9-3.jpg",
+                        "../../assets/shopImg/product/9-4.jpg"
+                    ],
+                    "cost":129,
+                    "star":5,
+                    "review":53
+                },
+                {
+                    "id":3,
+                    "name": "Lounger Bed Rest Back Pillow",
+                    "backImg":"../../assets/shopImg/product/mp10.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp10.jpg",
+                        "../../assets/shopImg/product/p10-1.jpg",
+                        "../../assets/shopImg/product/p10-2.jpg",
+                        "../../assets/shopImg/product/p10-3.jpg",
+                        "../../assets/shopImg/product/p10-4.jpg"
+                    ],
+                    "cost":25,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":4,
+                    "name": "Candy Crush Saga",
+                    "backImg":"../../assets/shopImg/product/mp11.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp11.jpg",
+                        "../../assets/shopImg/product/11-1.jpg",
+                        "../../assets/shopImg/product/11-2.jpg",
+                        "../../assets/shopImg/product/11-3.jpg",
+                        "../../assets/shopImg/product/11-4.jpg"
+                        
+                    ],
+                    "cost":50,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":5,
+                    "name": "Candy Crush Saga",
+                    "backImg":"../../assets/shopImg/product/mp12.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp12.jpg",
+                        "../../assets/shopImg/product/12-1.jpg",
+                        "../../assets/shopImg/product/12-2.jpg",
+                        "../../assets/shopImg/product/12-2.jpg",
+                        "../../assets/shopImg/product/12-3.jpg",
+                        "../../assets/shopImg/product/12-4.jpg",
+                        "../../assets/shopImg/product/12-5.jpg",
+                        "../../assets/shopImg/product/12-6.jpg"
+                    ],
+                    "cost":50,
+                    "star":3,
+                    "review":53
+                },
+                {
+                    "id":6,
+                    "name": "Kinetic Sand",
+                    "backImg":"../../assets/shopImg/product/mp13.jpg",
+                    "detailImg":[
+                        "../../assets/shopImg/product/mp13.jpg",
+                        "../../assets/shopImg/product/13-1.jpg",
+                        "../../assets/shopImg/product/13-2.jpg",
+                        "../../assets/shopImg/product/13-3.jpg"
+                       
+                    ],
+                    "cost":15,
+                    "star":4,
+                    "review":53
+                }
+                
+            ]
+        }
+
+    ],
+
+    "ownProducts":[
+        {
+            "id":7,
+            "name": "Safe+Mate x Case-Mate",
+            "backImg":"../../assets/shopImg/product/14-2.jpg",
+            "detailImg":[
+                "../../assets/shopImg/product/mp14.jpg",
+                "../../assets/shopImg/product/14-1.jpg",
+                "../../assets/shopImg/product/14-2.jpg",
+                "../../assets/shopImg/product/14-3.jpg",
+                "../../assets/shopImg/product/14-4.jpg",
+                "../../assets/shopImg/product/14-5.jpg",
+                "../../assets/shopImg/product/14-6.jpg"
+                
+                
+            ],
+            "cost":39,
+            "star":5,
+            "review":250
+        },
+        {
+            "id":8,
+            "name": "Candy Crush Saga",
+            "backImg":"../../assets/shopImg/product/mp15.jpg",
+            "detailImg":[
+                "../../assets/shopImg/product/mp15.jpg",
+                "../../assets/shopImg/product/p-0.jpg",
+                "../../assets/shopImg/product/p-1.jpg",
+                "../../assets/shopImg/product/p-2.jpg",
+                "../../assets/shopImg/product/p-3.jpg",
+                "../../assets/shopImg/product/p-4.jpg",
+                "../../assets/shopImg/product/p-5.jpg"
+                
+            ],
+            "cost":50,
+            "star":3,
+            "review":53
+        },
+        {
+            "id":1,
+            "name": "Draperies/Drapes for Window",
+            "backImg":"../../assets/shopImg/product/mp8.jpg",
+            "detailImg":[
+                            "../../assets/shopImg/product/mp8.jpg",
+                            "../../assets/shopImg/product/8-1.jpg",
+                            "../../assets/shopImg/product/8-2.jpg",
+                            "../../assets/shopImg/product/8-3.jpg",
+                            "../../assets/shopImg/product/8-4.jpg"
+                        ],
+            "cost":250,
+            "star":3,
+            "review":53
+        },
+        {
+            "id":2,
+            "name": "Hbada Office Task Desk Chair",
+            "backImg":"../../assets/shopImg/product/mp9.jpg",
+            "detailImg":[
+                "../../assets/shopImg/product/mp9.jpg",
+                "../../assets/shopImg/product/9-1.jpg",
+                "../../assets/shopImg/product/9-2.jpg",
+                "../../assets/shopImg/product/9-3.jpg",
+                "../../assets/shopImg/product/9-4.jpg"
+            ],
+            "cost":129,
+            "star":5,
+            "review":53
+        }
+    ],
+
+    "offerProducts":{    
+        "bannerImg":"../../assets/shopImg/offerProducts/banner1.png",
+        "offertitle":"FIND BIG DISCOUNTS, OFFER AT VERY LOW PRICE",
+        "products":[
+            {
+                "name":"Women's Ultra",
+                "cost":150,
+                "star":4,
+                "review":32,
+                "image": "../../assets/shopImg/offerProducts/offer (1).jpg"
+
+            },
+            {
+                "name":"Men's Heams Modern",
+                "cost":107,
+                "star":4,
+                "review":62,
+                "image": "../../assets/shopImg/offerProducts/offer (2).jpg"
+
+            },
+            {
+                "name":"La Sportiva Men's Bushido",
+                "cost":128,
+                "star":4,
+                "review":32,
+                "image": "../../assets/shopImg/offerProducts/offer (3).jpg"
+
+            },
+            {
+                "name":"Pattern Tempered Glass Back",
+                "cost":728,
+                "star":4,
+                "review":102,
+                "image": "../../assets/shopImg/offerProducts/offer (4).jpg"
+            },
+
+            {
+                "name":"Funfe iPhone 6s Case,iPhone 6 Case",
+                "cost":24,
+                "star":4,
+                "review":12,
+                "image": "../../assets/shopImg/offerProducts/offer (5).jpg"
+            },
+            
+            {
+                "name":"Men's Long Sleeve Sweater",
+                "cost":28,
+                "star":4,
+                "review":82,
+                "image": "../../assets/shopImg/offerProducts/offer (6).jpg"
+            },
+
+            {
+                "name":"Kids Face Protective Masks",
+                "cost":18,
+                "star":4,
+                "review":180,
+                "image": "../../assets/shopImg/offerProducts/offer (7).jpg"
+            },
+
+            {
+                "name":"Diamond Spot Watch",
+                "cost":60,
+                "star":4,
+                "review":480,
+                "image": "../../assets/shopImg/offerProducts/offer (1).png"
+            },
+
+            {
+                "name":"Full Circle Scrap Happy",
+                "cost":125,
+                "star":4,
+                "review":693,
+                "image": "../../assets/shopImg/offerProducts/offer (2).png"
+            },
+
+            {
+                "name":"Infrared Thermometer",
+                "cost":39,
+                "star":5,
+                "review":156,
+                "image": "../../assets/shopImg/offerProducts/offer (3).png"
+            },
+            {
+                "name":"TEMOFON Women's Tops",
+                "cost":26,
+                "star":5,
+                "review":132,
+                "image": "../../assets/shopImg/offerProducts/offer (4).png"
+            },
+            {
+                "name":"Gold Women's Boho Wrap",
+                "cost":7,
+                "star":5,
+                "review":132,
+                "image": "../../assets/shopImg/offerProducts/offer (5).png"
+            }
+        ]
+    },
+
+   "favorityProducts":[
+    {
+        "id":1,
+        "name": "HP Pavilion 17.3 Inch Laptop",
+        "backImg":"../../assets/shopImg/product/mp0.png",
+        "detailImg":[
+            "../../assets/shopImg/product/mp0.png",
+            "../../assets/shopImg/product/p0-1.jpg",
+            "../../assets/shopImg/product/p0-2.jpg",
+            "../../assets/shopImg/product/p0-3.jpg",
+            "../../assets/shopImg/product/p0-4.jpg",
+            "../../assets/shopImg/product/p0-5.jpg"
+        ],
+        "cost":350,
+        "star":5,
+        "review":52 
+    },
+    {
+        "id":2,
+        "name": "GV2 Astor Diamond",
+        "backImg":"../../assets/shopImg/product/mp1.png",
+        "detailImg":[
+            "../../assets/shopImg/product/mp1.png",
+            "../../assets/shopImg/product/p1-2.jpg",
+            "../../assets/shopImg/product/p1-3.jpg",
+            "../../assets/shopImg/product/p1-1.jpg"
+            
+        ],
+        "cost":199,
+        "star":3,
+        "review":53
+    },
+    {
+        "id":3,
+        "name": "32GB Android Tablet FRB",
+        "backImg":"../../assets/shopImg/product/mp2.png",
+        "detailImg":[
+            "../../assets/shopImg/product/mp2.png",
+            "../../assets/shopImg/product/p2-1.jpg",
+            "../../assets/shopImg/product/p2-3.jpg",
+            "../../assets/shopImg/product/p2-4.jpg"
+          
+        ],
+        "cost":129,
+        "star":4,
+        "review":24
+    },
+    {
+        "id":4,
+        "name": "8GB Cell Phone Sumsung",
+        "backImg":"../../assets/shopImg/product/mp3.png",
+        "detailImg":[
+            "../../assets/shopImg/product/mp3.png",
+            "../../assets/shopImg/product/p3-0.jpg",
+            "../../assets/shopImg/product/p3-1.jpg",
+            "../../assets/shopImg/product/p3-2.jpg",
+            "../../assets/shopImg/product/p3-3.jpg",
+            "../../assets/shopImg/product/p3-4.jpg",
+            "../../assets/shopImg/product/p3-5.jpg"
+            
+        ],
+        "cost":400,
+        "star":3,
+        "review":53
+    },
+    {
+        "id":5,
+        "name": "Philips Norelco - Rechargeable Wet",
+        "backImg":"../../assets/shopImg/product/mp4.png",
+        "detailImg":[
+            "../../assets/shopImg/product/mp4.png",
+            "../../assets/shopImg/product/p4-1.jpg",
+            "../../assets/shopImg/product/p4-2.jpg",
+            "../../assets/shopImg/product/p4-3.jpg",
+            "../../assets/shopImg/product/p4-4.jpg"
+        ],
+        "cost":50,
+        "star":3,
+        "review":42
+    }
+   ]
+    
+  
+
+
+}

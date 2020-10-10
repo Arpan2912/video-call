@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "roomName": "phantom gaming",
+        "roonDescription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "roomImage":"../../assets/roomImg/promot-ninja.jpg"
+    },
+  
+    {
+        "id": 2,
+        "roomName": "evil clown",
+        "roonDescription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "roomImage":"../../assets/roomImg/promot-evilA.jpg"  
+    },
+    {
+        "id": 3,
+        "roomName": "dark ninjas",
+        "roonDescription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "roomImage":"../../assets/roomImg/promot-evilGirl.jpg"      
+    },
+    {
+        "id": 4,
+        "roomName": "pink blossom",
+        "roonDescription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "roomImage":"../../assets/roomImg/promot-pink.jpg"    
+    },
+
+    {
+        "id": 5,
+        "roomName": "lionclown",
+        "roonDescription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "roomImage":"../../assets/roomImg/promot-lion.jpg"     
+    },
+
+    {
+        "id": 6,
+        "roomName": "chexxxy",
+        "roonDescription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "roomImage":"../../assets/roomImg/promot-chexx.jpg"     
+    }
+
+  ]
