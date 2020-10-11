@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import DashboardPage from './components/dashboard';
 import InstantRoom from './components/instantRoom/instant_room'
 import RandomRoom from './components/randomRoom/random_room'
