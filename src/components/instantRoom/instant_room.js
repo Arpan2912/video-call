@@ -13,7 +13,7 @@ import SubToolTip from '../build/i-chatbox/toolTip';
 var ii = 0;
 var min = 0;
 var sec = 0;
-export class instant_room extends Component {
+class InstantRoom extends Component {
 
 
     constructor(props) {
@@ -38,6 +38,7 @@ export class instant_room extends Component {
 
 
     componentDidMount() {
+       
         this.setState({ emmojis: Emmojis });
         setTimeout(() => {
             $("#preloder").css('display', 'none');
@@ -120,14 +121,14 @@ export class instant_room extends Component {
     toggleVideo = () => {
         const { media } = this.state;
         media.video = !media.video;
-        console.log("toggleVideo",media);
+        console.log("toggleVideo", media);
         this.setState({ media });
     }
 
     toggleAudio = () => {
         const { media } = this.state;
         media.audio = !media.audio;
-        console.log("toggleAudio",media);
+        console.log("toggleAudio", media);
         this.setState({ media });
     }
 
@@ -170,7 +171,7 @@ export class instant_room extends Component {
 
                 <div className="webCam-content">
                     <div className="instantUser-wraper">
-                        <InstantUsers handEmjod={this.state.p_em} media={this.state.media} />
+                        <InstantUsers handEmjod={this.state.p_em} media={this.state.media} {...this.props} />
                     </div>
 
                     <div className="hidden-bottom">
@@ -363,7 +364,7 @@ export class instant_room extends Component {
                         </div>
 
                         <div className="instant-room-button-container" onClick={() => {
-                             this.toggleVideo();
+                            this.toggleVideo();
                             if (this.state.own) {
                                 $('.camera-icon').addClass('uncamera');
                                 $(".stop-video-text").css('color', '#ff8300');
@@ -459,4 +460,4 @@ export class instant_room extends Component {
     }
 }
 
-export default instant_room
+export default InstantRoom;

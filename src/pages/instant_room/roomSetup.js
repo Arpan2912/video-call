@@ -3,7 +3,7 @@ import SearchRoundedIcon from '@material-ui/icons/SearchRounded'
 import { FormInput, GradiantButton, TransparentButton, P } from '../../components/styles'
 import Checkbox from '@material-ui/core/Checkbox';
 
-export class roomSetup extends Component {
+class RoomSetup extends Component {
     state = {
         controls: {
             roomName: {
@@ -80,4 +80,4 @@ export class roomSetup extends Component {
     }
 }
 
-export default roomSetup
+export default RoomSetup;

@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import userData from '../../data/InstantUsers.json';
+// import userData from '../../data/InstantUsers.json';
 import $ from "jquery"
 
-const conn = new WebSocket('ws://localhost:9090');
+// const conn = new WebSocket('wss://phiz.live:9090');
+let conn = null;
 let yourConn = {};
 const configuration = {
   "iceServers": [{ "url": "stun:stun2.1.google.com:19302" }]
@@ -40,15 +41,19 @@ class InstaUsers extends Component {
     this.remoteVideo = {};
   }
   async componentDidMount() {
+    console.log("initialize component...");
+
     // this.setState({ users: userData });
-    // const query = new URLSearchParams(this.props.location.search);
-    // if (query.get("roomName")) {
-    //   roomId = query.get("roomName");
-    // }
+    const query = new URLSearchParams(this.props.location.search);
+    if (query.get("roomName")) {
+      roomId = query.get("roomName");
+    }
+    conn = new WebSocket('wss://phiz.live:9090');;
+    // conn = new WebSocket('wss://localhost:9090');
     await this.initializeWebsocketEventsHandler();
     setTimeout(() => {
       this.login();
-    }, 5000)
+    }, 2000)
   }
 
   componentWillReceiveProps(props) {
